@@ -1,0 +1,22 @@
+div{
+    width: 300px;
+    padding: 20px;
+    display: inline-block;
+}
+.firstdiv{
+    background: green;
+}
+#seconddiv{
+    background: yellow;
+}
+.thirddiv{
+    background: red;
+}
+.parentdiv {
+    /* background: black; */
+    width: 90%;
+    /* height: 200px; */
+    display: block;
+    margin: 0% auto;
+    text-align: center;
+}
